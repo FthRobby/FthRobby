@@ -8,8 +8,8 @@
 
 
 
-I'm Fatah RobbySalam,
-this is the place where I save all my programming lessons.
+I'm Fatah RobbySalam, I'm student of STMIK AKAKOM YOGYAKARTA
+This is the place where I keep all my programming learning results.
 
 🌱 I'm currently learning Android Programming, and Web Programming.
 
