@@ -15,5 +15,4 @@
 📫 let's discuss about programming, both android and web, reach me : @fthrobby or [FatahRobbySalam](mailto:rbysalam10@gmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fthrobby&layout=compact&hide_border=true&hide=html&langs_count=7&hide_title=true)](https://github.com/fthrobby)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fthrobby&layout=compact)](https://github.com/fthrobby)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fthrobby&layout=compact&theme=dracula)](https://github.com/fthrobby)
