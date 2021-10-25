@@ -19,10 +19,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fthrobby&layout=compact&hide_border=true&hide=html&langs_count=7&hide_title=true&theme=dracula)](https://github.com/fthrobby)
 
 <div style="display: inline_block"><br>
- <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="Bootsrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
- <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+ <img align="center" alt="Android" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+ <img align="center" alt="Vue JS" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+ <img align="center" alt="React JS" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+ <img align="center" alt="Laravel" src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
+ <img align="center" alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+ <img align="center" alt="TextEditor" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 </div>
