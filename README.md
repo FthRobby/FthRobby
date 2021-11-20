@@ -16,8 +16,7 @@
 📫 let's discuss about programming, both android and web, reach me : @fthrobby or [FatahRobbySalam](mailto:rbysalam10@gmail.com)
 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=fthrobby&hide_border=true&show_icons=true&hide=contribs&include_all_commits=true&line_height=24&theme=dracula)](https://github.com/fthrobby)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fthrobby&layout=compact&hide_border=true&hide=html&langs_count=7&hide_title=true&theme=dracula)](https://github.com/fthrobby)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=fthrobby&hide_border=true&show_icons=true&hide=contribs&include_all_commits=true&line_height=24&theme=dracula)](https://github.com/fthrobby) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fthrobby&layout=compact&hide_border=true&hide=html&langs_count=7&hide_title=true&theme=dracula)](https://github.com/fthrobby)
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Android" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
