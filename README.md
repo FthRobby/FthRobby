@@ -26,3 +26,5 @@
  <img align="center" alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
  <img align="center" alt="TextEditor" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 </div>
+
+halo,nama saya Aisyah Rizki Utari biasa dipanggil Ais/ica.Saya berasal dari Riau.Saya merupakan pribadi yang terkadang suka bersosialisasi terkadang engga.Saya juga suka membuat rencana serta jadwal atas apa yang akan saya lakukan,karena saya terkadang kurang teliti,maka dengan saya membuat jadwal,setidaknya saya mempunyai waktu untuk memperbaiki apa yang kurang tersebut.Hobi saya bisa jalanjalan,memasak,bersepeda,serta nonton film.
