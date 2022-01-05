@@ -19,10 +19,9 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=fthrobby&hide_border=true&show_icons=true&hide=contribs&include_all_commits=true&line_height=24&theme=dracula)](https://github.com/fthrobby) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fthrobby&layout=compact&hide_border=true&hide=html&langs_count=7&hide_title=true&theme=dracula)](https://github.com/fthrobby)
 
 <div style="display: inline_block"><br>
- <img align="center" alt="Android" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
  <img align="center" alt="Vue JS" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
- <img align="center" alt="React JS" src="https://img.icons8.com/color/48/000000/react-native.png"/>
  <img align="center" alt="Laravel" src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
  <img align="center" alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
  <img align="center" alt="TextEditor" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+ <img align="center" alt="Git" src="https://img.icons8.com/color/48/000000/git.png"/>
 </div>
