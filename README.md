@@ -10,10 +10,7 @@
 
  I'm Fatah RobbySalam
  
-👨‍🎓 I'm student of STMIK AKAKOM YOGYAKARTA.</br>
-💻 This is the place where I keep all my programming learning results.</br>
-🌱 I'm currently learning Android Programming, and Web Programming.</br>
-📫 let's discuss about programming, both android and web, reach me : @fthrobby or [FatahRobbySalam](mailto:rbysalam10@gmail.com)
+💻 I'm currently learning Web Programming.</br>
 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=fthrobby&hide_border=true&show_icons=true&hide=contribs&include_all_commits=true&line_height=24&theme=dracula)](https://github.com/fthrobby) 
