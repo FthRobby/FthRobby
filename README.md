@@ -12,9 +12,12 @@
  
 💻 I'm currently learning Web Programming.</br>
 
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=fthrobby&hide_border=true&show_icons=true&hide=contribs&include_all_commits=true&line_height=24&theme=dracula)](https://github.com/fthrobby) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fthrobby&layout=compact&hide_border=true&hide=html&langs_count=7&hide_title=true&theme=dracula)](https://github.com/fthrobby)
+<p align="left">
+<a href="https://github.com/fthrobby">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fthrobby&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fthrobby&layout=compact&langs_count=8&theme=dracula"/>
+</a>
+</p>
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Vue JS" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
