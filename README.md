@@ -19,10 +19,10 @@
 </a>
 </p>
 
-<div style="display: inline_block"><br>
+<!-- <div style="display: inline_block"><br>
  <img align="center" alt="Vue JS" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
  <img align="center" alt="Laravel" src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
  <img align="center" alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
  <img align="center" alt="TextEditor" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
  <img align="center" alt="Git" src="https://img.icons8.com/color/48/000000/git.png"/>
-</div>
+</div> -->
