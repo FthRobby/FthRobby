@@ -1,6 +1,6 @@
 ## 👋 Hi I'm Robby
 ![](https://komarev.com/ghpvc/?username=fthrobby&style=flat-square)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/fatah-robbysalam-5943b7217/)
+<!--[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/fatah-robbysalam-5943b7217/)-->
 
 
 [![@fthrobby's Holopin board](https://holopin.io/api/user/board?user=fthrobby)](https://holopin.io/@fthrobby)
