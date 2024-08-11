@@ -9,8 +9,7 @@
 
 
  I'm Fatah RobbySalam
- 
-💻 I'm currently learning Web Programming.</br>
+
 
 <p align="left">
 <a href="https://github.com/fthrobby">
