@@ -8,14 +8,15 @@
 
 
 
- I'm Fatah RobbySalam
+I'm a front-end developer, passionate about creating dynamic and user-friendly web and mobile apps experiences. With a keen eye for design and a robust understanding of multiplatform front-end technologies.
+
+[see details about me](https://www.frobby.tech/)
 
 
 <p align="left">
-<a href="https://github.com/fthrobby">
- 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fthrobby&layout=compact&langs_count=8&theme=dracula"/>
-</a>
+ <a href="https://github.com/fthrobby">
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fthrobby&layout=compact&langs_count=8&theme=dracula"/>
+ </a>
 </p>
 
 <!-- <div style="display: inline_block"><br>
